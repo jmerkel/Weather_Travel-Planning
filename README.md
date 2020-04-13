@@ -1,5 +1,5 @@
 # jmerkel_Module_06
-##APIs
+## APIs
 This file contains weather data for a randomized set of cities and a sample travel itinerary for a South-East Australian trip.
 
 Using a randomized set of coordinates, the program calls the nearest_city function of the citipy module to apply a city name to each coordinate.
@@ -8,11 +8,11 @@ From there, each city is used to call the Open Weather Map API for up to date we
 
 Finally, the administrator (me) picked 4 cities to create a sample trip based on user input. Using gmaps direction API calls, a map and directions were generated. 
 
-###code
+### code
 .ipynb files are located in the base directory
 
-###CSV files
+### CSV files
 csv files are located in the "weather_data" directory
 
-###Screenshots
+### Screenshots
 screenshots are located in the "weather_image" directory
