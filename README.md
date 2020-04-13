@@ -1,5 +1,6 @@
-# jmerkel_Module_06
+# Weather Data Pull & Travel Planning
 ## APIs
+### UC Berkeley - jmerkel_Module_06
 This file contains weather data for a randomized set of cities and a sample travel itinerary for a South-East Australian trip.
 
 Using a randomized set of coordinates, the program calls the nearest_city function of the citipy module to apply a city name to each coordinate.
