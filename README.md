@@ -1,7 +1,11 @@
 # Weather Data Pull & Travel Planning
 ## APIs
-### UC Berkeley - jmerkel_Module_06
-This file contains weather data for a randomized set of cities and a sample travel itinerary for a South-East Australian trip.
+
+### Purpose
+Collect & clean weather data from 3rd party APIs to create a travel itenerary.
+
+### Summary
+This project contains weather data for a randomized set of cities and a sample travel itinerary for a South-East Australian trip.
 
 Using a randomized set of coordinates, the program calls the nearest_city function of the citipy module to apply a city name to each coordinate.
 
